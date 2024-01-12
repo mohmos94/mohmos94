@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @mohmos94
-- 👀 I love to code and learn new prorgaming language
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on different project
-- 📫 you can contacte through my github account
+- 🎓 Bachelor of Science in Computer Science, Oslo Metropolitan University, 2023
+- 📫 How to reach mosti94@hotmail.com
 
 <!---
 mohmos94/mohmos94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
